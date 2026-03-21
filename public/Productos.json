@@ -1,0 +1,80 @@
+{
+    "items": [
+        {
+            "id": 2,
+            "nombre": "Vestido Coctel Negro",
+            "descripcion": "Vestido corto de coctel en color negro, perfecto para eventos formales",
+            "precio": 599.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        },
+        {
+            "id": 3,
+            "nombre": "Vestido Boho Verano",
+            "descripcion": "Vestido estilo bohemio con bordados en los bordes, tela ligera",
+            "precio": 349.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        },
+        {
+            "id": 4,
+            "nombre": "Vestido Lencero Satinado",
+            "descripcion": "Vestido lencero con tirantes finos, acabado satinado brillante",
+            "precio": 459.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        },
+        {
+            "id": 5,
+            "nombre": "Vestido Midi Rayas",
+            "descripcion": "Vestido midi con rayas verticales en azul y blanco",
+            "precio": 279.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        },
+        {
+            "id": 6,
+            "nombre": "Vestido Noche Rojo",
+            "descripcion": "Vestido largo de noche en rojo intenso con escote en V",
+            "precio": 899.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        },
+        {
+            "id": 7,
+            "nombre": "Vestido Casual Denim",
+            "descripcion": "Vestido camisero en tela denim, cinturón incluido",
+            "precio": 389.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        },
+        {
+            "id": 8,
+            "nombre": "Vestido Plisado Rosa",
+            "descripcion": "Vestido plisado en rosa pastel, corte A ideal para el día a día",
+            "precio": 319.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        },
+        {
+            "id": 9,
+            "nombre": "Vestido Fiesta Lentejuelas",
+            "descripcion": "Vestido corto con lentejuelas doradas para fiestas y celebraciones",
+            "precio": 749.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        },
+        {
+            "id": 1,
+            "nombre": "Vestido Floral Primavera",
+            "descripcion": "Vestido largo con estampado floral, ideal para ocasiones casuales",
+            "precio": 299.99,
+            "activo": true,
+            "fechaCreacion": "2026-03-10T19:51:36.105744"
+        }
+    ],
+    "totalItems": 20,
+    "pagina": 1,
+    "porPagina": 9,
+    "totalPaginas": 3
+}
