@@ -26,7 +26,7 @@ Para instalar y configurar el proyecto localmente, sigue estos pasos:
 1. **Clonar el repositorio** (opcional):
    ```bash
    git clone <url-del-repositorio>
-   cd "Primera Piedra"
+   cd "Creaciones-Normita-Frontend"
    ```
 
 2. **Instalar dependencias:**
@@ -54,4 +54,4 @@ npm run build
 ```
 
 ---
-*Desarrollado para el proyecto Primera Piedra.*
+
