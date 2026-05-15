@@ -28,7 +28,7 @@ const Login = () => {
 
       if (response.ok) {
         const userData = {
-          nombre: data.username,
+          nombre: data.nombre,
           role: data.role
         };
         login(userData, data.token);
